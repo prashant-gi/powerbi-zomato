@@ -1,5 +1,8 @@
 # Power BI Projects for Learning and Training
 
+![Alt text](./Images/New%20Project%20(15).jpg)
+
+
 Welcome to the **Power BI Projects** repository! This collection provides hands-on examples to help you enhance your Power BI skills and tackle real-world business problems. Whether you're improving your own expertise or using these resources for team training, these projects cover key areas like DAX, data modeling, and advanced visualizations.
 
 ## Key Features
